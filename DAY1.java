@@ -4,7 +4,7 @@ public class DAY1 {
 
 	public static void main(String[] args) {
 		
-		int m[] = new int[6];
+		int m[] = new int[6];  // Creating Array
 		int i;
 		
 		Scanner sc = new Scanner(System.in);
