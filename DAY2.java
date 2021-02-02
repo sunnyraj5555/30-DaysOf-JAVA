@@ -66,3 +66,17 @@ public class DAY2
 				  break;  
 			  }
 			break;
+			case "ME":
+				  switch(Year)
+				  {
+				  case "I":
+					  switch(Semester)
+					  {
+					  case 1:
+						  System.out.println("SUBJECTS: C/Engeniering Mathematics/Physics I /Chemistry1 I");
+						  break;
+					  case 2:
+						  System.out.println("SUBJECTS: C++/Mathematics II /Physics II/Chemistry II");
+						  break;
+					  }
+					  break;
