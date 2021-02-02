@@ -42,3 +42,14 @@ public class DAY2
 					  break;
 				  }
 				  break;
+			case "III":
+				  switch(Semester)
+				  {
+				  case 5:
+					  System.out.println("SUBJECTS: Python/ DBMS / TOC /Computer Network");
+					  break;
+				  case 6:
+					  System.out.println("SUBJECTS: C#/ HTML5 / CSS / JAVASCRIPT");
+					  break;
+				  }
+				  break;
