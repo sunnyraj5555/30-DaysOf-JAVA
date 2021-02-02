@@ -115,3 +115,56 @@ public class DAY2
 					  break;  
 				  }
 				break;
+		case "CE":
+				  switch(Year)
+				  {
+				  case "I":
+					  switch(Semester)
+					  {
+					  case 1:
+						  System.out.println("SUBJECTS: C/Engeniering Mathematics/Physics I /Chemistry1 I");
+						  break;
+					  case 2:
+						  System.out.println("SUBJECTS: C++/Mathematics II / Physics II / Chemistry II");
+						  break;
+					  }
+					  break;
+				  case "II":
+					  switch(Semester)
+					  {
+					  case 3:
+						  System.out.println("SUBJECTS: Chemical Kinectics / Chemical Energetics / Thermodynamics ");
+						  break;
+					  case 4:
+						  System.out.println("SUBJECTS: Real Gas / Ideal Gas / Mole Concept ");
+						  break;
+					  }
+					  break;
+				  case "III":
+					  switch(Semester)
+					  {
+					  case 5:
+						  System.out.println("SUBJECTS: Chemical Bonding / Molecular Orbital Theory / Complex Compound ");
+						  break;
+					  case 6:
+						  System.out.println("SUBJECTS: Chemical Engeniering / Alchohal Ether ");
+						  break;
+					  }
+					  break;
+				  case "IV":
+					  switch(Semester)
+					  {
+					  case 7:
+						  System.out.println("SUBJECTS: Organic Compound / Organic Lab ");
+						  break;
+					  case 8:
+						  System.out.println("SUBJECTS: Placement Course/ Revision Course ");
+						  break;  
+					  }
+					  break;  
+				  }
+				break;
+			 }
+		}			
+	}
+
