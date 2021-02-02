@@ -31,3 +31,14 @@ public class DAY2
 					  break;
 				  }
 				  break;
+			case "II":
+				  switch(Semester)
+				  {
+				  case 3:
+					  System.out.println("SUBJECTS: JAVA/ Mathematics III / Computer NETWORKS  ");
+					  break;
+				  case 4:
+					  System.out.println("SUBJECTS: Kotlin/Descreate Mathematics/Operating System /ADS");
+					  break;
+				  }
+				  break;
