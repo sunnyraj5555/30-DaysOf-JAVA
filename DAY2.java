@@ -53,3 +53,16 @@ public class DAY2
 					  break;
 				  }
 				  break;
+			case "IV":
+				  switch(Semester)
+				  {
+				  case 7:
+					  System.out.println("SUBJECTS: Ruby/ Introguction to Game Development / Game Design  ");
+					  break;
+				  case 8:
+					  System.out.println("SUBJECTS: Placement Course/ Revision Course");
+					  break;  
+				  }
+				  break;  
+			  }
+			break;
