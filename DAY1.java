@@ -4,15 +4,16 @@ public class DAY1 {
 
 	public static void main(String[] args) {
 		
-		int m[] = new int[6];  // Creating Array
+		int m[] = new int[6];  // Creating Array to take marks of 6 subjects
 		int i;
 		
 		Scanner sc = new Scanner(System.in);
 		
+		//for loop for taking input of marks
 		for(i=0; i<6; i++)
 		{
 			System.out.println("Enter The marks of" +" "+ (i+1) +" "+ "Subjects: ");
-			m[i] = sc.nextInt();
+			m[i] = sc.nextInt(); //using scanner object to take input
 			
 		}
 
