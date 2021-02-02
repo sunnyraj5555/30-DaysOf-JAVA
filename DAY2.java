@@ -80,3 +80,38 @@ public class DAY2
 						  break;
 					  }
 					  break;
+			 case "II":
+					  switch(Semester)
+					  {
+					  case 3:
+						  System.out.println("SUBJECTS: JAVA / Mathematics III / Thermodynamics ");
+						  break;
+					  case 4:
+						  System.out.println("SUBJECTS: Mechanics I /Descreate Mathematics/ Atomic Structure / Kinematics II");
+						  break;
+					  }
+					  break;
+				  case "III":
+					  switch(Semester)
+					  {
+					  case 5:
+						  System.out.println("SUBJECTS: Mechanics II / Modern Physics / Kinematics II");
+						  break;
+					  case 6:
+						  System.out.println("SUBJECTS: X ray / Rotation Mechanics I");
+						  break;
+					  }
+					  break;
+				  case "IV":
+					  switch(Semester)
+					  {
+					  case 7:
+						  System.out.println("SUBJECTS: Circular Motion / Gravitation / Rotation Mechanism II");
+						  break;
+					  case 8:
+						  System.out.println("SUBJECTS: Placement Course/ Revision Course");
+						  break;  
+					  }
+					  break;  
+				  }
+				break;
