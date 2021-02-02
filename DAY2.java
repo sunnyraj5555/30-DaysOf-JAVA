@@ -15,4 +15,19 @@ public class DAY2
 			
 			System.out.println("Enter Your Semester (in Words) : ");
 			int Semester = s.nextInt();
-			
+	switch(Branch)
+			{
+			case "CSE":
+			  switch(Year)
+			  {
+			  case "I":
+				  switch(Semester)
+				  {
+				  case 1:
+					  System.out.println("SUBJECTS: C/Engeniering Mathematics/Physics I /Chemistry1 I");
+					  break;
+				  case 2:
+					  System.out.println("SUBJECTS: C++/Mathematics II /Physics II/Chemistry II");
+					  break;
+				  }
+				  break;
