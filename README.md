@@ -17,3 +17,5 @@ Source: [https://www.javatpoint.com/java-switch](https://www.javatpoint.com/java
 Ques. (3) Write a program in java using control statements (for loop, while loop, do-while loop) to display that a given number is a prime number or not.
 
 Source: [https://www.javatpoint.com/java-for-loop](https://www.javatpoint.com/java-for-loop)
+
+## DAY 4
