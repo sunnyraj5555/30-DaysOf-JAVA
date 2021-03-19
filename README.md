@@ -19,3 +19,5 @@ Ques. (3) Write a program in java using control statements (for loop, while loop
 Source: [https://www.javatpoint.com/java-for-loop](https://www.javatpoint.com/java-for-loop)
 
 ## DAY 4
+
+Ques. (4) 
